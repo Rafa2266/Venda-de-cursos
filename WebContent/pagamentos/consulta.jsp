@@ -26,7 +26,7 @@
         </div>
         <div class="row">
           <div class="col-md-12">
-            <form class="form-horizontal" role="form"  method="post" action="http://localhost:8080/Comercio/Controlador">
+            <form class="form-horizontal" role="form"  method="post" action="http://localhost:8080/Venda-de-cursos/Controlador">
               <div class="form-group">
                 <div class="col-sm-2">
                   <label for="inputCPF" class="control-label">Informar o CPF:</label>

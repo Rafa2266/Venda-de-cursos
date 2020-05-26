@@ -24,7 +24,7 @@
           <div class="col-md-12 text-center">
             <h3 class="tt_menu">&gt;&gt; PAGAMENTOS &lt;&lt;</h3>
             <div class="col-md-12  btn-group btn-group-lg btn-group-vertical">
-              <a href="http://localhost:8080/Comercio/Controlador?idformulario=3&tipoformulario=31" class="btn btn-default">Consultar Todos os Pagamentos</a>
+              <a href="http://localhost:8080/Venda-de-cursos/Controlador?idformulario=3&tipoformulario=31" class="btn btn-default">Consultar Todos os Pagamentos</a>
               <a href="consulta.jsp" class="btn btn-default">Consultar um Pagamento Específico</a>
               <a href="cadastro.jsp" class="btn btn-default">Cadastrar um Novo Pagamento</a>
               <a href="alteracao.jsp" class="btn btn-default">Alterar um Pagamento</a>
