@@ -24,7 +24,7 @@
           <div class="col-md-12 text-center">
             <h3 class="tt_menu">&gt;&gt; CURSOS &lt;&lt;</h3>
             <div class="col-md-12  btn-group btn-group-lg btn-group-vertical">
-              <a href="http://localhost:8080/Comercio/Controlador?idformulario=2&tipoformulario=21" class="btn btn-default">Consultar Todos os Cursos</a>
+              <a href="http://localhost:8080/Venda-de-cursos/Controlador?idformulario=2&tipoformulario=21" class="btn btn-default">Consultar Todos os Cursos</a>
               <a href="consulta.jsp" class="btn btn-default">Consultar um Curso Específico</a>
               <a href="cadastro.jsp" class="btn btn-default">Cadastrar um Novo Curso</a>
               <a href="alteracao.jsp" class="btn btn-default">Alterar um Curso</a>

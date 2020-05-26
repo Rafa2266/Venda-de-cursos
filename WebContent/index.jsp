@@ -36,7 +36,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
-          <a class="btn btn-default" href="http://localhost:8080/Comercio/logout.jsp">Sair</a>
+          <a class="btn btn-default" href="http://localhost:8080/Venda-de-cursos/logout.jsp">Sair</a>
           </div>
          </div>
         </div>
