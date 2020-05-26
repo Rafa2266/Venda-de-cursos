@@ -39,11 +39,11 @@ try {
 	if(rs.next()) {
 	 session.setAttribute("login","true");
 	 session.setAttribute("mensagem","Usuário  autenticado!!!");
-	 response.sendRedirect("http://localhost:8080/Comercio/index.jsp");
+	 response.sendRedirect("http://localhost:8080/Venda-de-cursos/index.jsp");
 	}
 	else {
 		 session.setAttribute("mensagem","Usuário não autenticado!!!");
-		 response.sendRedirect("http://localhost:8080/Comercio/login.jsp");
+		 response.sendRedirect("http://localhost:8080/Venda-de-cursos/login.jsp");
 	}
 	response.setStatus(response.SC_OK);
 } catch (SQLException e) {

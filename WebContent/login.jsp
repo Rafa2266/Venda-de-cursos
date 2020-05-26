@@ -1,11 +1,11 @@
 <html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script type="text/javascript" src="http://localhost:8080/Comercio/lib/js/jquery.min.js"></script>
-    <script type="text/javascript" src="http://localhost:8080/Comercio/lib/js/bootstrap.min.js"></script>
-    <link href="http://localhost:8080/Comercio/lib/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://localhost:8080/Comercio/lib/css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="http://localhost:8080/Comercio/lib/css/padrao.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://localhost:8080/Venda-de-cursos/lib/js/jquery.min.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/Venda-de-cursos/lib/js/bootstrap.min.js"></script>
+    <link href="http://localhost:8080/Venda-de-cursos/lib/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost:8080/Venda-de-cursos/lib/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost:8080/Venda-de-cursos/lib/css/padrao.css" rel="stylesheet" type="text/css">
     <title>Página de autenticação</title>
   </head><body>
     <div class="section section-danger text-justify">
@@ -26,7 +26,7 @@
         </div>
         <div class="row">
           <div class="col-md-12">
-            <form class="form-horizontal" role="form"  method="post" action="http://localhost:8080/Comercio/util/autenticao.jsp">
+            <form class="form-horizontal" role="form"  method="post" action="http://localhost:8080/Venda-de-cursos/util/autenticao.jsp">
               <div class="form-group">
                 <div class="col-sm-2">
                   <label for="inputEmail3" class="control-label">Informar o CPF:</label>
